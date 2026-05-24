@@ -24,6 +24,7 @@ This list was curated by [SubmitAITools.org](https://submitaitools.org/) – you
 **Top Tools:**
 - [Spline AI](https://spline.design/ai)
 - [Tripo AI](https://www.tripo3d.ai/)
+- [Image3D](https://image3d.io/)
 - [Mirage](https://mirageml.com/)
 - [Kiri Engine](https://www.kiriengine.app/)
 - [Polycam](https://poly.cam/)
