@@ -14,6 +14,7 @@ This list was curated by [SubmitAITools.org](https://submitaitools.org/) – you
 - [Kaedim](https://www.kaedim3d.com/)
 - [Scenario](https://www.scenario.com/)
 - [Meshy](https://www.meshy.ai/)
+- [Prompt2CAD](https://prompt2cad.com/) - AI CAD tool that turns text prompts into editable CAD-style geometry and exports STEP, DXF, STL, OBJ, and GLB.
 - [DreamFusion (Google Research)](https://dreamfusion3d.github.io/) *(research project)*
 
 ---
