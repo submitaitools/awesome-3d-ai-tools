@@ -39,6 +39,7 @@ This list was curated by [SubmitAITools.org](https://submitaitools.org/) – you
 - [Shap-E (OpenAI)](https://github.com/openai/shap-e)
 - [Magna AI](https://magna.ai/)
 - [Promethean AI](https://www.prometheanai.com/)
+- [BidSharp](https://bidsharp.io/) - AI-powered proposal intelligence platform with automated critiques, risk scanners, and pricing calculators.
 
 ---
 
