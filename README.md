@@ -14,6 +14,7 @@ This list was curated by [SubmitAITools.org](https://submitaitools.org/) – you
 - [Kaedim](https://www.kaedim3d.com/)
 - [Scenario](https://www.scenario.com/)
 - [Meshy](https://www.meshy.ai/)
+- [Luphra](https://www.luphra.com/)
 - [DreamFusion (Google Research)](https://dreamfusion3d.github.io/) *(research project)*
 
 ---
