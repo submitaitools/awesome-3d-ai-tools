@@ -10,6 +10,7 @@ This list was curated by [SubmitAITools.org](https://submitaitools.org/) – you
 **Description:** Generate 3D models directly from text prompts using generative AI.
 
 **Top Tools:**
+- [Raphael](https://raphael.app/) – AI workspace for creative production — image, video, and design in one place.
 - [Luma AI (Imagine 3D)](https://lumalabs.ai/imagine)
 - [Kaedim](https://www.kaedim3d.com/)
 - [Scenario](https://www.scenario.com/)
