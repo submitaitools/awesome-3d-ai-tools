@@ -27,6 +27,8 @@ This list was curated by [SubmitAITools.org](https://submitaitools.org/) – you
 - [Mirage](https://mirageml.com/)
 - [Kiri Engine](https://www.kiriengine.app/)
 - [Polycam](https://poly.cam/)
+- [Ai3DSculpt](https://ai3dsculpt.com/) *(20 free signup credits, 60s PNG/photo to watertight STL, GLB, OBJ, USDZ)*
+- [TripoSR AI](https://www.triposrai.com/) *(open-source image-to-3D guide, local-browser GLB↔OBJ & PLY→STL converters, ComfyUI workflow generator)*
 
 ---
 
